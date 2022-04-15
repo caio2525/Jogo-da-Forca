@@ -1,0 +1,10 @@
+teclado
+mouse
+phone
+celular
+abajur
+teclado
+piano
+computador
+bike
+bicicleta
